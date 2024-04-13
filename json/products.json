@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Trà dâu Mr Đỏ",
+    "title": "Trà dâu",
     "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0004.jpg",
     "price": "30.000"
   },
@@ -19,20 +19,32 @@
   },
   {
     "id": 4,
-    "title": "Cute Soft Teddybear",
+    "title": "Trà Atiso",
     "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0006.jpg",
     "price": "35.000"
   },
   {
     "id": 5,
-    "title": "Tà dâu Mr Đỏ",
+    "title": "Tà dâu",
     "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0004.jpg",
     "price": "40.000"
   },
   {
-    "id": 9,
-    "title": "30/5 Ninh Kiều Cần Th",
-    "photo": "The Coffe House Pro",
-    "price": "12"
+    "id": 6,
+    "title": "Latte",
+    "photo": "https://afamilycdn.com/thumb_w/660/2018/photo-4-1515053366460.jpg",
+    "price": "40.000"
+  },
+  {
+    "id": 7,
+    "title": "Trà sữa trân châu",
+    "photo": "https://hopdungthucan.com/wp-content/uploads/2022/05/hinh-anh-ly-tra-sua-tran-chau-den_062227981.jpg",
+    "price": "40.000"
+  },
+  {
+    "id": 7,
+    "title": "Trà đào",
+    "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0009.jpg",
+    "price": "30.000"
   }
 ]
