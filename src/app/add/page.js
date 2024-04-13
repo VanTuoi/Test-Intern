@@ -2,16 +2,11 @@
 import React, { useEffect, useState } from 'react';
 import { Grid, Box, Container, Typography } from '@mui/material';
 import { Stack, Button } from '@mui/material';
-import LoadingButton from '@mui/lab/LoadingButton';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import IconButton from '@mui/material/IconButton';
-import ContentCopyIcon from '@mui/icons-material/ContentCopy';
-import ChangeCircleIcon from '@mui/icons-material/ChangeCircle';
+import { toast } from 'react-toastify';
+
 // In the Project
 import PageContainer from '@/app/(home)/components/container/PageContainer';
 import CustomTextField from '@/app/(home)/components/shared/CustomTextField';
-import CustomTypography from '@/app/(home)/components/shared/CustomTypography';
-import { useAppSelector } from '@/lib/hooks';
 import useProduct from '@/hook/product/useProduct';
 
 
@@ -26,12 +21,12 @@ const Edit = () => {
 
     const handleAddProduct = async () => {
         if (!id || !title || !imageUrl || !price) {
-            alert('Không được để trống')
+            toast.error('Không được để trống')
             return
         }
         let response = await addProduct(id, title, imageUrl, price)
         if (response) {
-            alert('Thành công')
+            toast.success('Thêm mới hành công')
         }
     }
 
