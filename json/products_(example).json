@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Trà dâu Mr Đỏ",
+        "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0004.jpg",
+        "price": "30.000"
+    },
+    {
+        "id": 2,
+        "title": "Cocktail",
+        "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0008.jpg",
+        "price": "50.000"
+    },
+    {
+        "id": 3,
+        "title": "Hồng trà",
+        "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0003.jpg",
+        "price": "40.000"
+    },
+    {
+        "id": 4,
+        "title": "Cute Soft Teddybear",
+        "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0006.jpg",
+        "price": "35.000"
+    },
+    {
+        "id": 5,
+        "title": "Tà dâu Mr Đỏ",
+        "photo": "https://www.chuphinhsanpham.vn/wp-content/uploads/2022/07/chup-hinh-tra-sua-dep-hcm-c-photo-2022-0004.jpg",
+        "price": "40.000"
+    }
+]
